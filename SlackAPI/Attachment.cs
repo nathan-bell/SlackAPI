@@ -14,7 +14,10 @@
         public string title_link;
         public string text;
         public Field[] fields;
-        
+
+        public int thumb_height;
+        public int thumb_width;
+
         public string image_url;
         public string thumb_url;
         public string[] mrkdwn_in;
